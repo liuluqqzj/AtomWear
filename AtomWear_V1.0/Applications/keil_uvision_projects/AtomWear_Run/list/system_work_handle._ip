@@ -1,0 +1,5 @@
+"..\..\..\Software\Source\sys_work_handle\system_work_handle.c" -E -c --cpu Cortex-M0 --li -O0 --apcs=interwork -I..\..\..\Software\Include --c99 
+-I C:\Keil\ARM\RV31\INC 
+-I C:\Keil\ARM\CMSIS\Include 
+-I C:\Keil\ARM\Device\Nordic\nRF51822\Include 
+-DNRF51 -DBOARD_PCA10001 -DNRF51_DBG -o ".\list\system_work_handle.i" --list_dir ".\\list\\" --list
