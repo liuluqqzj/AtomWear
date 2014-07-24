@@ -12,7 +12,6 @@ AtomWear
 
 ## 如有任何疑问，欢迎联系： ##
 刘璐（男）  LiuLu（武汉研发）  
-TEL： 13554382101  
 E-mail： liuluqqzj@foxmail.com   
 
 ----------
